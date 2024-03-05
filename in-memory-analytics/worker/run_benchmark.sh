@@ -2,7 +2,7 @@
 
 SPARK_HOME=/opt/spark-3.3.2
 RATINGS=$(pwd)/myratings.csv
-DATASET=$(pwd)/dataset/ml-latest  #ml-latest (large) or ml-latest-small 
+DATASET=$(pwd)/data/ml-latest  #ml-latest (large) or ml-latest-small 
 BENCHMARK_JAR=$(pwd)/movielens-als-2.0.jar
 
 
