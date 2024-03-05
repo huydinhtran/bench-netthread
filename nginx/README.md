@@ -1,4 +1,4 @@
-# nginx-rs
+# nginx
 
 On server's machine,
 ```bash
